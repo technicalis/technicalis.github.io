@@ -13,7 +13,8 @@ Hello World, This is my first post..
 This is a common code snippet, without syntax highlight and line number.
 
 ```This is common code ```
-```Yaml 
+```Yaml
+#Yaml code snippet 
 items:
     - part_no:   A4786
       descrip:   Water Bucket (Filled)
