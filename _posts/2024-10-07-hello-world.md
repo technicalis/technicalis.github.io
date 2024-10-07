@@ -24,3 +24,6 @@ items:
 
 Adding a image
 ![My helpful screenshot](https://chirphy22.netlify.app/assets/img/sample/avatar.jpg)
+
+... which is shown in the screenshot below:
+![My helpful screenshot](/assets/screenshot.jpg)
