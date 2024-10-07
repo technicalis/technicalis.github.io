@@ -21,3 +21,6 @@ items:
       price:     1.47
       quantity:  4
 ``` 
+
+Adding a image
+cdn: https://noahnyy.github.io/assets/img/sample/avatar.jpg
