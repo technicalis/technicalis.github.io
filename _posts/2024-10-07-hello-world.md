@@ -23,4 +23,6 @@ items:
 ``` 
 
 Adding a image
-cdn: https://noahnyy.github.io/assets/img/sample/avatar.jpg
+---
+media_subpath: /assets/img/01.png
+---
