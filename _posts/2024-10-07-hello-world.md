@@ -9,3 +9,8 @@ author: Technicalis
 # Hello World
 
 Hello World, This is my first post..
+
+This is a common code snippet, without syntax highlight and line number.
+
+```This is common code ```
+``` this is more code 
