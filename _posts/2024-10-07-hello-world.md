@@ -24,5 +24,5 @@ items:
 
 Adding a image
 ---
-media_subpath: /assets/img/01.png
+image: https://chirphy22.netlify.app/assets/img/sample/avatar.jpg
 ---
