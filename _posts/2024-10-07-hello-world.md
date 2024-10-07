@@ -23,6 +23,4 @@ items:
 ``` 
 
 Adding a image
----
-image: https://chirphy22.netlify.app/assets/img/sample/avatar.jpg
----
+![My helpful screenshot](https://chirphy22.netlify.app/assets/img/sample/avatar.jpg)
