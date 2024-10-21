@@ -4,7 +4,7 @@ icon: fas fa-info
 order: 4
 ---
 
-![Technicalish](/assets/darko.jpg){: width="350" .left}
+![Technicalish]{: width="350" .left}
 
 Welcome to my blog, where I’ll be sharing my journey and insights in the ever-evolving world of cybersecurity. I’m excited to bring my knowledge and experience to the table and share it with my local community. My goal is to write about CTF challenges and other interesting topics around hacking and forensics. But, don’t hesitate to give me feedback if you spot any issues or misconceptions.
 
