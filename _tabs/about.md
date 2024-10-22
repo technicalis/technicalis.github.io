@@ -13,10 +13,8 @@ My name is Technicalish, a offensice security engineer and analyst with an inter
 - Ethical Hacking
 - Phishing analysis
 - Digital forensics
-- Cyber threat intelligence
 - Adversarial mindset
 - Attack simulation/emulation
 
 I’m excited to share my journey and insights with you, and I hope you find the information here useful.
 
-<script src="https://cyberdefenders.org/p/Technicalish/badge"></script>
