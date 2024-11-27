@@ -10,7 +10,8 @@ author: Technicalis
 
 Hello World, This is my first post..
 
-This is a common code snippet, without syntax highlight and line number.
+This is a common code snippet, without syntax highlight and line number. <br>
+Testing the page layout resize function.
 
 ```This is common code ```
 ```Yaml
