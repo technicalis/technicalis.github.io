@@ -13,6 +13,14 @@ Hello World, This is my first post..
 This is a common code snippet, without syntax highlight and line number. <br>
 Testing the page layout resize function.
 
+| Challenge                    | Difficulty       | Date       |
+|:-----------------------------|:-----------------|:-----------|
+| Easy Box                     | Easy             | 31-12-1997 |
+| Medium Box                   | Medium           | 30-12-1998 |
+| Hard Box                     | Hard             | 29-12-1999 |
+
+<br>
+
 ```This is common code ```
 ```Yaml
 #Yaml code snippet 
